@@ -1,14 +1,14 @@
 body {
   font-size: 20px;
   font-family: Arial, sans-serif;
+  color: #FFF;
 }
 .navbar {
-  background-color: #298A08;
+  background-color: #CAD2C5;
 }
 
 .quem-somos {
-  background-color: #8181F7;
-  color: #FFF;
+  background-color: #84A98C;
 }
 
 .margin {
@@ -17,10 +17,13 @@ body {
 }
 
 .parceiros {
-  background-color: #58FAF4;
+  background-color: #52796F;
+}
+
+.servicos {
+  background-color: #354F52;
 }
 
 .bg-footer {
-  background-color: #000;
-  color: #FFF;
+  background-color: #2F3E46;
 }
